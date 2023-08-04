@@ -1,0 +1,271 @@
+div {
+    width: 500px; 
+    height: 650px; 
+    position: relative; 
+    
+    border-radius: 15px; 
+    overflow: hidden;
+}
+.Rectangle1 {
+    width: 480px; 
+    height: 35px; 
+    left: 8px; 
+    top: 10px; 
+    position: absolute; 
+    background: #25EA21; 
+    border-radius: 5px; 
+    border: 1px black solid;
+}
+.img {
+    width: 140px; 
+    height: 180px; 
+    left: 10px; 
+    top: 60px; 
+    position: absolute; 
+    border-radius: 15px;
+}
+.TentangSaya {
+    width: 150px; 
+    height: 35px; 
+    left: 7px; 
+    top: 17px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Roboto Condensed; 
+    font-weight: 400; line-height: 20px; 
+    word-wrap: break-word;
+}
+.Rectangle2 {
+    width: 314px; 
+    height: 172px; 
+    left: 174px; top: 61px; 
+    position: absolute; 
+    background: #6AB8EF; 
+    border-radius: 5px; 
+    border: 1px black solid;
+}
+.Biodata {
+    width: 125px; 
+    height: 25px; 
+    left: 165px;
+    top: 65px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.NamaAndikaDeniKristianto {
+    width: 276px; 
+    left: 179px; 
+    top: 94px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Ttl13Maret2006 {
+    left: 19px; 
+    top: 114px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.SekolahSmkPgriDonorojo {
+    left: 65px; 
+    top: 134px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.JurusanDkv {
+    width: 130px; 
+    height: 30px; 
+    left: 177px; 
+    top: 155px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.AsalPacitan {
+    width: 114px; 
+    height: 24px; 
+    left: 181px; 
+    top: 176px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.HobiBermainGames {
+    width: 192px; 
+    height: 34px; 
+    left: 181px; 
+    top: 197px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Rectangle3 {
+    width: 479px;
+     height: 35px; 
+     left: 8px; 
+     top: 257px; 
+     position: absolute; 
+     background: #25EA21;
+     border-radius: 5px; 
+     border: 1px #0D0C05 solid;
+}
+.RiwayatPendidikan {
+    left: -139px; 
+    top: 260px; 
+    position: absolute;
+    text-align: center; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Roboto Condensed; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Rectangle4 {
+    width: 480px; 
+    height: 35px; 
+    left: 8px; 
+    top: 413px; 
+    position: absolute; 
+    background: #25EA21; 
+    border-radius: 5px; 
+    border: 1px black solid;
+}
+.Rectangle5 {
+    width: 223px; 
+    height: 86px; 
+    left: 128px; 
+    top: 309px; 
+    position: absolute; 
+    background: #6AB8EF; 
+    border-radius: 5px; 
+    border: 1px black solid;
+}
+.SmkPgriDonorojo {
+    width: 206px; 
+    left: 128px; 
+    top: 364px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.SdnSekarI {
+    left: -58px; 
+    top: 314px; 
+    position: absolute; 
+    text-align: center;
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.MtsMaArifCim {
+    left: -37px; 
+    top: 338px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.Rectangle6 {
+    width: 444px; 
+    height: 108px; 
+    position: absolute;
+    top: 466px;
+    left: 20px;
+    background: #6AB8EF; 
+    border-radius: 5px; 
+    border: 1px black solid;
+}
+.Pengalaman {
+    width: 123px; 
+    height: 31px; 
+    left: 15px; 
+    top: 416px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 25px; 
+    font-family: Roboto Condensed; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.PengalamanPernahMengikutiHighking {
+    width: 424px; 
+    height: 35px;
+    position: absolute; 
+    top: 467px;
+    left: 21px;
+    text-align: center; 
+    color: black; 
+    font-size: 22px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.PernahMengikutiCaraPembuatanFilem {
+    width: 480px; 
+    height: 30px; 
+    left: -24px; 
+    top: 500px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.PernahMengunjungiGameLabIndonesia {
+    width: 474px; 
+    height: 97px; 
+    left: -14px; 
+    top: 529px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Lora; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
